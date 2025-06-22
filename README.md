@@ -1,10 +1,10 @@
-# 老鹰乐队经典作品下载 | Eagles Greatest Hits Downloads
+# AI指令资源中心 - 专业AI提示词分享与下载平台
 
-下载老鹰乐队(Eagles)经典音视频作品合集，包含《加州旅馆》等不朽名曲高清资源
+发现、下载并分享高质量的AI指令资源。包含写作、编程、营销等各类AI提示词模板，助您提升工作效率。免费下载！
 
 # keywords
 
- 老鹰乐队,Eagles下载,经典摇滚,音乐下载,加州旅馆,乐队历史
+AI指令, 提示词工程, ChatGPT提示, Midjourney提示, 人工智能资源, 提示词模板, AI资源下载, AI工具, prompt engineering, AI prompts, ChatGPT prompts, Midjourney prompts, AI resources download, prompt templates
 
 # 资源列表
 
