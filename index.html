@@ -728,6 +728,51 @@
         .disclaimer-content strong {
             color: #d35400;
         }
+        .footer-links-section {
+            padding-bottom: 50px;
+        }
+
+        .footer-links-section h3 {
+            font-size: 1.3rem;
+            margin-bottom: 20px;
+            color: white;
+            position: relative;
+            padding-bottom: 10px;
+        }
+
+        .footer-links-section h3:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 50px;
+            height: 2px;
+            background: var(--accent);
+        }
+
+        .friend-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .friend-links a {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .friend-links a:hover {
+            color: white;
+            transform: translateX(5px);
+        }
+
+        .friend-links i {
+            font-size: 0.9rem;
+        }
     </style>
 </head>
 <body>
@@ -1665,6 +1710,17 @@
 <!-- Footer -->
 <footer>
     <div class="container">
+        <div class="footer-links-section">
+            <h3>友情链接</h3>
+            <div class="friend-links">
+                <a href="https://tutu365.netlify.app/" target="_blank"><i class="fas fa-link"></i> 图图爱读书</a>
+                <a href="https://fangu.netlify.app/" target="_blank"><i class="fas fa-link"></i> 凡骨：问道篇</a>
+                <a href="https://eagles-resource.netlify.app/" target="_blank"><i class="fas fa-link"></i> 老鹰乐队经典作品下载</a>
+                <a href="https://duzhe.netlify.app/" target="_blank"><i class="fas fa-link"></i> 读者</a>
+                <a href="https://beyond-resource.netlify.app/" target="_blank"><i class="fas fa-link"></i> beyond乐队资源中心</a>
+                <a href="https://tutu-tools.netlify.app/" target="_blank"><i class="fas fa-link"></i> 图图工具库</a>
+            </div>
+        </div>
         <div class="copyright">
             &copy; 2023 PromptHub AI指令资源中心. 保留所有权利。
         </div>
